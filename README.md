@@ -15,7 +15,7 @@ Table of Contents
 - [.\DiscordSlashCommandBot.Commands](DiscordSlashCommandBot.Commands/) - Contains definitions and logic for Discord Slash Commands.
 - [.\DiscordSlashCommandBot.Interfaces](DiscordSlashCommandBot.Interfaces/) - Contains interface definitions.
 - [.\DiscordSlashCommandBot\Options](DiscordSlashCommandBot/Options/) - Contains IOptions models for configuration.
-- [.\DiscordSlashCommandBot\Services\](DiscordSlashCommandBot/Services/) - Services to be consumed by the ServiceProvider container, including the primary bot service.
+- [.\DiscordSlashCommandBot\Services](DiscordSlashCommandBot/Services/) - Services to be consumed by the ServiceProvider container, including the primary bot service.
 - [.\DiscordSlashCommandBot\Services\BotService.cs](DiscordSlashCommandBot/Services/BotService.cs) - The primary bot service responsible for the application logic.
 - [.\DiscordSlashCommandBot\ServicesConfiguration.cs](DiscordSlashCommandBot/ServicesConfiguration.cs) - Where services are registered.
 - [.\DiscordSlashCommandBot\Statics](DiscordSlashCommandBot/Statics/) - Stores static classes and values used throughout the application.
